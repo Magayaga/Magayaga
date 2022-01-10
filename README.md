@@ -1,4 +1,5 @@
 ## Magayaga (_Cyril John Magayaga_)
+* **Cyril John Magayaga**, 14 years old at Student.
 * Founder, Chief Executive Officer, and Chief Technology Officer of [**Intergralty Platforms Inc.**](https://github.com/intergralty)
 
 ### Technologies
