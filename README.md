@@ -1,16 +1,28 @@
-### Hi there 👋
+## Magayaga (_Cyril John Magayaga_)
+* Founder, Chief Executive Officer, and Chief Technology Officer of [**Intergralty Platforms Inc.**](https://github.com/intergralty)
 
-<!--
-**Magayaga/Magayaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies
+**Programming Languages**
+| **HTML** | **CSS** | **JAVASCRIPT** | **PYTHON** | **PHP** | **VISUAL BASIC .NET** | **C#** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020-present| 2020-present | 2020-present | 2021-present | 2021-present | 2022-present | 2022-present |
 
-Here are some ideas to get you started:
+**Websites**
+| **Wikipedia** | **WordPress** | **Google Sites** | **Wix.com** | **GoDaddy** | 
+|:-:|:-:|:-:|:-:|:-:|
+|2020-present | 2020-present | 2020-present | 2020-present | 2021 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Products**
+| **Software** | **Type** | **Written in** | 
+|:-:|:-:|:-:|
+| MaterialOne | Design language software | HTML, CSS, JavaScript, and PHP |
+| XenonOS | Web for phone operating system | N/A | 
+| Hazeon | Web search engine | HTML, CSS, and JavaScript |
+| SearchGo | Web search engine | HTML, CSS, and JavaScript |
+| Muse | Vector graphics editor | HTML, CSS, and JavaScript |
+| AnimationOne | Design language software | HTML, CSS, JavaScript, and PHP |
+| OneBoard | Note-taking service | HTML, CSS, and JavaScript |
+| Weaver | Integrated development environment | HTML, CSS, and JavaScript |
+| Studios Code | Integrated development environment | HTML, CSS, and JavaScript |
+| Calculator | Calculator software application | HTML, CSS, JavaScript for **Web**; Python for **Software** |
+| Platfer(Web Browser) | Graphical web browser | Visual Basic.NET and C# (pending) |
