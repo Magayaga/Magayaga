@@ -49,3 +49,16 @@
 | JetBrains PyCharm | 2021-present | 2021.3 |
 | Swift for Windows | 2021-2022 | v2.0 |
 | Microsoft NotePad | 2020-present | Don't know |
+| All of Online Compiler | 2021-present | All of the Above |
+
+**Partnership Company**
+| **Company** | **Start Dates**| **End Dates** | **Intergralty Products** |
+|:-:|:-:|:-:|:-:|
+| Apple Inc. | 16 December 2020 | Current | Yes |
+| Microsoft Corporation | 24 December 2020 | Current | Yes |
+| Google LLC | 15 February 2021 | Current | Yes |
+| Meta Platforms Inc. (formerly known as Facebook Inc.) | 24 May 2021 | Current | No |
+| Samsung Electronics Co., Ltd. | 25 October 2021 | Current | Yes (Android and Windows) |
+| Adobe Inc. | 25 October 2021 | Current | No |
+| JetBrains s.r.o. | 2 November 2021 | Current | No |
+| Oracle Corporation | 12 January 2022 | Current | Yes |
