@@ -41,12 +41,12 @@
 -----------------
 
 **Partnership Products**
-| Microsoft Visual Studio | 2021-present | Visual Studio 2019 and Visual Studio 2022 |
+| Microsoft Visual Studio | 2021-present | Visual Studio 2019 or later |
 |:-:|:-:|:-:|
-| Microsoft Visual Studio | 2021-present | 1.60 |
+| Microsoft Visual Studio | 2021-present | 1.60 or later |
 | Google DartPad | 2021-present | Don't know |
 | Google Android Studio | 2020-2021 | 2020.3 |
-| JetBrains PyCharm | 2021-present | 2021.3 |
+| JetBrains PyCharm | 2021-present | 2021.3 or later |
 | Swift for Windows | 2021-2022 | v2.0 |
 | Microsoft NotePad | 2020-present | Don't know |
 | All of Online Compiler | 2021-present | All of the Above |
