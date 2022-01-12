@@ -10,9 +10,9 @@
 |2020-present| 2020-present | 2020-present | 2021-present | 2021-present | 2022-present | 2022-present |
 
 **Websites**
-| **Wikipedia** | **WordPress** | **Google Sites** | **Wix.com** | **GoDaddy** | 
-|:-:|:-:|:-:|:-:|:-:|
-|2020-present | 2020-present | 2020-present | 2020-present | 2021 |
+| **Wikipedia** | **WordPress** | **Google Sites** | **Wix.com** | **GoDaddy** | **Site123** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020-present | 2020-present | 2020-present | 2020-present | 2021 | 2020-2021 |
 
 **Products**
 | **Software** | **Type** | **Written in** | 
@@ -62,3 +62,10 @@
 | Adobe Inc. | 25 October 2021 | Current | No |
 | JetBrains s.r.o. | 2 November 2021 | Current | No |
 | Oracle Corporation | 12 January 2022 | Current | Yes |
+
+Hosting Development and Internet
+| Products | Dates |
+|:-:|:-:|
+| GitHub | 25 October 2021-present |
+| Azure DevOps | 23 December 2021-present |
+| GitLab | 7 January 2022-present |
