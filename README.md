@@ -27,7 +27,7 @@
 | Weaver | Integrated development environment | HTML, CSS, and JavaScript |
 | Studios Code | Integrated development environment | HTML, CSS, and JavaScript |
 | Calculator | Calculator software application | HTML, CSS, JavaScript for **Web**; Python for **Software** |
-| Platfer(Web Browser) | Graphical web browser | Visual Basic.NET and C# (pending) |
+| Platfer (Web Browser) | Graphical web browser | Visual Basic.NET and C# |
 
 **Education**
 | Educatiorld Educator Groups | Web portal for Education | Google Sites |
