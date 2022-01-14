@@ -49,7 +49,8 @@
 | JetBrains PyCharm | 2021-present | 2021.3 or later |
 | Swift for Windows | 2021-2022 | v2.0 |
 | Microsoft NotePad | 2020-present | Don't know |
-| All of Online Compiler | 2021-present | All of the Above |
+| Dev-C++ | 2021-present | 5.11 or later |
+| Microsoft Visual Studio for Blender | 2021-2022 | Visual Studio 2022 Professional |
 
 **Partnership Company**
 | **Company** | **Start Dates**| **End Dates** | **Intergralty Products** |
