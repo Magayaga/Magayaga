@@ -69,4 +69,5 @@ Hosting Development and Internet
 |:-:|:-:|
 | GitHub | 25 October 2021-present |
 | Azure DevOps | 23 December 2021-present |
+| Intergralty Giteo | 27 December 2021-present |
 | GitLab | 7 January 2022-present |
