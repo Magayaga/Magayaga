@@ -5,9 +5,10 @@
 
 ### Technologies
 **Programming Languages**
-| **HTML** | **CSS** | **JAVASCRIPT** | **PYTHON** | **PHP** | **VISUAL BASIC .NET** | **C#** |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|2020-present| 2020-present | 2020-present | 2021-present | 2021-present | 2022-present | 2022-present |
+| | **HTML** | **CSS** | **JAVASCRIPT** | **PYTHON** | **PHP** | **VISUAL BASIC .NET** | **C#** | **C++** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Dates**|2020-present| 2020-present | 2020-present | 2021-present | 2021-present | 2022-present | 2022-present | 2022-present |
+|**First appeared** |1993|1996|1995|1991|1995|2001|2001|1985|
 
 **Websites**
 | **Wikipedia** | **WordPress** | **Google Sites** | **Wix.com** | **GoDaddy** | **Site123** |
@@ -28,17 +29,6 @@
 | Studios Code | Integrated development environment | HTML, CSS, and JavaScript |
 | Calculator | Calculator software application | HTML, CSS, JavaScript for **Web**; Python for **Software** |
 | Platfer (Web Browser) | Graphical web browser | Visual Basic.NET and C# |
-
-**Education**
-| Educatiorld Educator Groups | Web portal for Education | Google Sites |
-|:-:|:-:|:-:|
-
-**Sancisoft**
-| Sancisoft Network | Web portal | Google sites
-|:-:|:-:|:-:|
-| Sancisoft Wesly | Web portal, Social networking service, and Hosting service | Wix.com
-
------------------
 
 **Partnership Products**
 | Microsoft Visual Studio | 2021-present | Visual Studio 2019 or later |
