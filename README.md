@@ -52,19 +52,7 @@
 | Dev-C++ | 2021-present | 5.11 or later |
 | Microsoft Visual Studio for Blender | 2021-2022 | Visual Studio 2022 Professional |
 
-**Partnership Company**
-| **Company** | **Start Dates**| **End Dates** | **Intergralty Products** |
-|:-:|:-:|:-:|:-:|
-| Apple Inc. | 16 December 2020 | Current | Yes |
-| Microsoft Corporation | 24 December 2020 | Current | Yes |
-| Google LLC | 15 February 2021 | Current | Yes |
-| Meta Platforms Inc. (formerly known as Facebook Inc.) | 24 May 2021 | Current | No |
-| Samsung Electronics Co., Ltd. | 25 October 2021 | Current | Yes (Android and Windows) |
-| Adobe Inc. | 25 October 2021 | Current | No |
-| JetBrains s.r.o. | 2 November 2021 | Current | No |
-| Oracle Corporation | 12 January 2022 | Current | Yes |
-
-Hosting Development and Internet
+**Hosting Development and Internet**
 | Products | Dates |
 |:-:|:-:|
 | GitHub | 25 October 2021-present |
