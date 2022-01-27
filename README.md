@@ -5,10 +5,10 @@
 
 ### Technologies
 **Programming Languages**
-| | **HTML** | **CSS** | **JAVASCRIPT** | **PYTHON** | **PHP** | **VISUAL BASIC .NET** | **C#** | **C++** |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Dates**|2020-present| 2020-present | 2020-present | 2021-present | 2021-present | 2022-present | 2022-present | 2022-present |
-|**First appeared** |1993|1996|1995|1991|1995|2001|2001|1985|
+| | **HTML** | **CSS** | **JAVASCRIPT** | **PYTHON** | **PHP** | **VISUAL BASIC .NET** | **C#** |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Dates**|2020-present| 2020-present | 2020-present | 2021-present | 2021-present | 2022-present | 2022-present |
+|**First appeared** |1993|1996|1995|1991|1995|2001|2001|
 
 **Websites**
 | **Wikipedia** | **WordPress** | **Google Sites** | **Wix.com** | **GoDaddy** | **Site123** |
