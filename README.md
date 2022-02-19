@@ -1,7 +1,7 @@
 ## Magayaga (_Cyril John Magayaga_)
 * Filipino **software developer**, **designer**, **author**, and **mathematician**.
 * **Cyril John Magayaga**, 14 years old at Student.
-* Founder, Chief Executive Officer, and Chief Technology Officer of [**Intergralty Corporation**](https://github.com/intergralty)
+* Founder, Chairman (February 2022-present, Chief Executive Officer (September 2020-present), and Chief Technology Officer (December 2019; November 2021-present) of [**Intergralty Corporation**](https://github.com/intergralty)
 
 ### Technologies
 **Programming Languages**
