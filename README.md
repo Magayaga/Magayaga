@@ -2,6 +2,7 @@
 * Filipino **software developer**, **designer**, **author**, and **mathematician**.
 * **Cyril John Magayaga**, 14 years old at Student.
 * Founder, Chairman (February 2022-present), Chief Executive Officer (September 2020-present), and Chief Technology Officer (December 2019; November 2021-present) of [**Intergralty Corporation**](https://github.com/intergralty)
+* Founder and Chief Executive Officer (September 2019-present) of [**Vancely Studios**](https://github.com/vancely)
 
 ### Technologies
 **Programming Languages**
