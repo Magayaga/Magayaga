@@ -6,7 +6,7 @@
 
 🧑🏽‍💻💻 I'm Filipino Developer, Graphic Designer, and Writer.
 
-🛠️⚙️ Web browser, Websites, Family of the text editors, Programming languages, Frameworks, and more.
+🛠️⚙️ Build and run the web browsers, text editors, websites, word processors, icon toolkits, and many more.
 
 ----
 
