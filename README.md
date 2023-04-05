@@ -7,7 +7,3 @@
 🧑🏽‍💻💻 I'm Filipino Developer, Graphic Designer, and Writer.
 
 🛠️⚙️ Build and run the web browsers, text editors, websites, word processors, icon toolkits, and many more.
-
-----
-
-Happiest life, Hopefully, and Dearest. ❤️
