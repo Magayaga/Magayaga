@@ -1,0 +1,28 @@
+.white {
+    color: azure;
+}
+
+.headingtwo {
+  font-family: "Google Sans";
+  font-weight: 300;
+}
+
+.headingtwo1 {
+  font-family: "Google Sans";
+  font-weight: 300;
+}
+
+.headingone {
+  font-family: "Google Sans";
+  font-weight: 100;
+}
+
+.normalfont {
+  font-family: "Google Sans";
+  font-weight: 200;
+}
+
+.normalfont2 {
+  font-family: 'Lora', serif;
+  font-style: italic;
+}
