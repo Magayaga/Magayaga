@@ -8,4 +8,4 @@
 
 🛠️⚙️ Build and run the web browsers, text editors, websites, word processors, icon toolkits, and many more.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magayaga&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magayaga&langs_count=8&theme=dark)](https://github.com/magayaga/magayaga)
