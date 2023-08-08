@@ -12,6 +12,6 @@
 
 
 # Pinned Repositories
-[![Magayaga's Nanomath](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=nanomath&theme=dark)](https://magayaga/nanomath)
-[![Magayaga's Concat](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=concat&theme=dark)](https://magayaga/nanomath)
-[![Magayaga's Cyflex](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=cyflex&theme=dark)](https://magayaga/nanomath)
+[![Magayaga's Nanomath](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=nanomath&theme=dark)](https://github.com/magayaga/nanomath)
+[![Magayaga's Concat](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=concat&theme=dark)](https://github.com/magayaga/concat)
+[![Magayaga's Cyflex](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=cyflex&theme=dark)](https://github.com/magayaga/Cyflex)
