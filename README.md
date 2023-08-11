@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magayaga&langs_count=8&theme=dark)](https://github.com/magayaga/magayaga)
 
 
-# Pinned Repositories
+# GitHub Pinned Repositories
 [![Magayaga's Nanomath](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=nanomath&theme=dark)](https://github.com/magayaga/nanomath)
 [![Magayaga's Concat](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=concat&theme=dark)](https://github.com/magayaga/concat)
 [![Magayaga's Cyflex](https://github-readme-stats.vercel.app/api/pin/?username=magayaga&repo=cyflex&theme=dark)](https://github.com/magayaga/Cyflex)
