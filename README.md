@@ -6,6 +6,6 @@
 
 🧑🏽‍💻💻 I'm a Filipino Developer and Graphic Designer.
 
-🛠️⚙️ Build and run commands, calculators, icon toolkits, and many more.
+🛠️⚙️ Build and run commands, calculators, icon toolkits, programming languages, and many more.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magayaga&langs_count=8&theme=dark)](https://github.com/magayaga/magayaga)
